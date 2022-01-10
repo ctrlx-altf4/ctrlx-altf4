@@ -17,4 +17,26 @@
 <h3 align="left"> Latest Blogs: </h3>
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://www.forehead.dev//how-to-remove-persisting-states-in-modal-component" title="How to remove persisting states in modal component?"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/pY_AZJfdbHQ/upload/v1641307095948/-itkGnwjej.jpeg" alt="How to remove persisting states in modal component?" width="250px" align="left" /></a>
+<a href="https://www.forehead.dev//how-to-remove-persisting-states-in-modal-component" title="How to remove persisting states in modal component?"><strong>How to remove persisting states in modal component?</strong></a>
+<br/> If you don't understand what I mean by persisting states in modal components, then once quickly have to look at the sandbox below:
+
+
+
+
+The code used is pretty simple: 
+
+import * as React from "react";
+import FormModal from "./FormModal";
+
+function Ap... </p> <br/> <br/>
+<p align="left">
+<a href="https://www.forehead.dev//before-you-break-down-components" title="Before you break down components..."><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/XLmhRnV8yuc/upload/v1640706695613/RNU8uksBf.jpeg" alt="Before you break down components..." width="250px" align="left" /></a>
+<a href="https://www.forehead.dev//before-you-break-down-components" title="Before you break down components..."><strong>Before you break down components...</strong></a>
+<br/> One of the great things about react is the ability to create as many components as we want. Breaking down codes into components allows for maintainability and flexibility. I have always tried, to the best of my knowledge to break down every small UI ... </p> <br/> <br/>
+<p align="left">
+<a href="https://www.forehead.dev//one-thing-that-made-me-love-typescript" title="One thing that made me love typescript!"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/BY34glOW7wA/upload/v1640009614496/4wihspXTF.jpeg" alt="One thing that made me love typescript!" width="250px" align="left" /></a>
+<a href="https://www.forehead.dev//one-thing-that-made-me-love-typescript" title="One thing that made me love typescript!"><strong>One thing that made me love typescript!</strong></a>
+<br/> I love Javascript. It's so plain and easy to build  something beautiful without having to tackle the hassles of type errors. I mean, just think about, you create a function which takes an argument and returns a value. You give a damn about what types... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
