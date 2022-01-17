@@ -18,6 +18,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://www.forehead.dev//my-first-time-with-graphql" title="My first Time with GraphQL"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642349367328/0VSdUhatQ.png" alt="My first Time with GraphQL" width="250px" align="left" /></a>
+<a href="https://www.forehead.dev//my-first-time-with-graphql" title="My first Time with GraphQL"><strong>My first Time with GraphQL</strong></a>
+<br/> The first time I used graphQL in a project wasn’t because of my sheer inquisition but because it was a requirement of the project. Though I had read articles about the benefits of gaphQL and had learned a bit about its mechanisms, I’ve never had unde... </p> <br/> <br/>
+<p align="left">
 <a href="https://www.forehead.dev//how-to-remove-persisting-states-in-modal-component" title="How to remove persisting states in modal component?"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/pY_AZJfdbHQ/upload/v1641307095948/-itkGnwjej.jpeg" alt="How to remove persisting states in modal component?" width="250px" align="left" /></a>
 <a href="https://www.forehead.dev//how-to-remove-persisting-states-in-modal-component" title="How to remove persisting states in modal component?"><strong>How to remove persisting states in modal component?</strong></a>
 <br/> If you don't understand what I mean by persisting states in modal components, then once quickly have to look at the sandbox below:
