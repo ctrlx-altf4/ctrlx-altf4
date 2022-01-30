@@ -18,6 +18,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://www.forehead.dev//project-setup-with-react-query-with-axios-typescript-and-code-generator-for-simplified-graphql-requests" title="Project setup with react-query with Axios, typescript & code generator for simplified graphQL requests."><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/pjAH2Ax4uWk/upload/v1643450129423/xF_uN1Ifr.jpeg" alt="Project setup with react-query with Axios, typescript & code generator for simplified graphQL requests." width="250px" align="left" /></a>
+<a href="https://www.forehead.dev//project-setup-with-react-query-with-axios-typescript-and-code-generator-for-simplified-graphql-requests" title="Project setup with react-query with Axios, typescript & code generator for simplified graphQL requests."><strong>Project setup with react-query with Axios, typescript & code generator for simplified graphQL requests.</strong></a>
+<br/> One of the misconceptions I had about GraphQL was that its an entirely different shift from how we transported data using REST. I thought, using normal "fetch" calls wouldn't work with GraphQL (oh.. how naive I was). But soon as I started playing aro... </p> <br/> <br/>
+<p align="left">
 <a href="https://www.forehead.dev//my-first-time-with-graphql" title="My first Time with GraphQL"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642349367328/0VSdUhatQ.png" alt="My first Time with GraphQL" width="250px" align="left" /></a>
 <a href="https://www.forehead.dev//my-first-time-with-graphql" title="My first Time with GraphQL"><strong>My first Time with GraphQL</strong></a>
 <br/> The first time I used graphQL in a project wasn’t because of my sheer inquisition but because it was a requirement of the project. Though I had read articles about the benefits of gaphQL and had learned a bit about its mechanisms, I’ve never had unde... </p> <br/> <br/>
@@ -39,8 +43,4 @@ function Ap... </p> <br/> <br/>
 <a href="https://www.forehead.dev//before-you-break-down-components" title="Before you break down components..."><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/XLmhRnV8yuc/upload/v1640706695613/RNU8uksBf.jpeg" alt="Before you break down components..." width="250px" align="left" /></a>
 <a href="https://www.forehead.dev//before-you-break-down-components" title="Before you break down components..."><strong>Before you break down components...</strong></a>
 <br/> One of the great things about react is the ability to create as many components as we want. Breaking down codes into components allows for maintainability and flexibility. I have always tried, to the best of my knowledge to break down every small UI ... </p> <br/> <br/>
-<p align="left">
-<a href="https://www.forehead.dev//one-thing-that-made-me-love-typescript" title="One thing that made me love typescript!"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/BY34glOW7wA/upload/v1640009614496/4wihspXTF.jpeg" alt="One thing that made me love typescript!" width="250px" align="left" /></a>
-<a href="https://www.forehead.dev//one-thing-that-made-me-love-typescript" title="One thing that made me love typescript!"><strong>One thing that made me love typescript!</strong></a>
-<br/> I love Javascript. It's so plain and easy to build  something beautiful without having to tackle the hassles of type errors. I mean, just think about, you create a function which takes an argument and returns a value. You give a damn about what types... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
