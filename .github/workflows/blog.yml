@@ -27,7 +27,7 @@ jobs:
         with:
           USERNAME: "ctrlx-altf4"
           COUNT: 4
-          STYLE: "blog-left"
+          STYLE: "blog"
           BLOG_URL: "https://www.forehead.dev/"
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
