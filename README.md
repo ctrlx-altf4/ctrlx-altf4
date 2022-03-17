@@ -17,8 +17,8 @@
 <h3 align="left"> Latest Blogs: </h3>
 
 <!-- HASHNODE_BLOG:START -->
+1. [Implementing Stripe workflow with golang and react](https://www.forehead.dev//implementing-stripe-workflow-with-golang-and-react)
 1. [Project setup with react-query with Axios, typescript & code generator for simplified graphQL requests.](https://www.forehead.dev//project-setup-with-react-query-with-axios-typescript-and-code-generator-for-simplified-graphql-requests)
 1. [My first Time with GraphQL](https://www.forehead.dev//my-first-time-with-graphql)
 1. [How to remove persisting states in modal component?](https://www.forehead.dev//how-to-remove-persisting-states-in-modal-component)
-1. [Before you break down components...](https://www.forehead.dev//before-you-break-down-components)
 <!-- HASHNODE_BLOG:END -->
