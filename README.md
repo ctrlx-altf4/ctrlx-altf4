@@ -17,8 +17,8 @@
 <h3 align="left"> Latest Blogs: </h3>
 
 <!-- HASHNODE_BLOG:START -->
+1. [Domain redirection with Nginx reverse proxy](https://www.forehead.dev//domain-redirection-with-nginx-reverse-proxy)
 1. [How we enabled the backend team to use their local server on the frontend app deployed on a remote server?](https://www.forehead.dev//how-we-enabled-the-backend-team-to-use-their-local-server-on-the-frontend-app-deployed-on-a-remote-server)
 1. [Implementing Stripe workflow with golang and react](https://www.forehead.dev//implementing-stripe-workflow-with-golang-and-react)
 1. [Project setup with react-query with Axios, typescript & code generator for simplified graphQL requests.](https://www.forehead.dev//project-setup-with-react-query-with-axios-typescript-and-code-generator-for-simplified-graphql-requests)
-1. [My first Time with GraphQL](https://www.forehead.dev//my-first-time-with-graphql)
 <!-- HASHNODE_BLOG:END -->
