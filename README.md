@@ -17,8 +17,8 @@
 <h3 align="left"> Latest Blogs: </h3>
 
 <!-- HASHNODE_BLOG:START -->
+1. [Using CSS framework isn’t an insult to your CSS skills](https://www.forehead.dev//using-css-framework-isnt-an-insult-to-your-css-skills)
 1. [useContext hook isn't an advanced react concept](https://www.forehead.dev//usecontext-hook-isnt-an-advanced-react-concept)
 1. [Creating a middleware with react using useRef and useContext hooks](https://www.forehead.dev//creating-a-middleware-with-react-using-useref-and-usecontext-hooks)
 1. [Domain redirection with Nginx reverse proxy](https://www.forehead.dev//domain-redirection-with-nginx-reverse-proxy)
-1. [How we enabled the backend team to use their local server on the frontend app deployed on a remote server?](https://www.forehead.dev//how-we-enabled-the-backend-team-to-use-their-local-server-on-the-frontend-app-deployed-on-a-remote-server)
 <!-- HASHNODE_BLOG:END -->
